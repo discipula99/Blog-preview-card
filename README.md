@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [GitHub Pages]([https://your-live-site-url.com](https://discipula99.github.io/Blog-preview-card/))
+- Live Site URL: [GitHub Pages](https://discipula99.github.io/Blog-preview-card/)
 
 ## My process
 
